@@ -26,7 +26,7 @@ Attributes:
  - description
 
 Methods:
- - json()
-	returns python dictionary object with the attributes of DDG as keys.
+ - `json()`
+returns python dictionary object with the attributes of DDG as keys.
 
 Check [**`how-to.py`**](https://github.com/m-y-x-i/duckduckgo-scrapper/blob/main/how-to.py#L16-L25) for more information.
